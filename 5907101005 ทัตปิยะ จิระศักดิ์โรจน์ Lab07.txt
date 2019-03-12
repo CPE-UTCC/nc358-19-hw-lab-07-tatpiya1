@@ -1,0 +1,8 @@
+if [[ -z $1 ]]
+then
+        echo "Argument is empty."
+else
+        echo "Argument is $1" 
+fi
+
+
